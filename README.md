@@ -1,4 +1,6 @@
-### ¡Hola a todos! Mi nombre es Gerardo García
+<span style="color:green;font-weight:700;font-size:20px">
+markdown color font styles
+</span>
 
 ## Mis estadístias son:
 

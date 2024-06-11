@@ -2,4 +2,4 @@
 
 ## Mis estadístias son:
 
-[![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarcia410)]
+![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggarcia410)

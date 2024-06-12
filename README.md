@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt="Hola, Soy Gerardo García. Arquitecto de Software!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
-<br />
-Desarrollador de software/Arquitecto de Software apasionado del código limpio y las aplicaciones simples y flexibles!!!
-<br /><br />
+# GERARDO GARCÍA ORTIZ
 
 **Acerca de mí**
 

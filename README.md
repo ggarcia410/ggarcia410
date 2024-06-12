@@ -40,9 +40,7 @@
 <img align="left" alt="jira" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg">
 <img align="left" alt="junit" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original.svg">
 <img align="left" alt="kotlin" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg">
-<img align="left" alt="" height="20" src="">
-<img align="left" alt="" height="20" src="">
-<img align="left" alt="" height="20" src="">
+<img align="left" alt="postman" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
 <br/><br/>
 
 **Bases de datos**
@@ -50,7 +48,7 @@
 <img align="left" alt="mongo" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg">
 <img align="left" alt="mysql" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
 <img align="left" alt="oracle" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/oracle/oracle-original.svg">
-<img align="left" alt="" height="20" src="">
+<img align="left" alt="postgresql" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg">
 <br/><br/>
 
 **Idiomas**

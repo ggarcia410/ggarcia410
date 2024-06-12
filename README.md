@@ -5,7 +5,7 @@
 </p>
 <br />
 Desarrollador de software/Arquitecto de Software apasionado del código limpio y las aplicaciones simples y flexibles!!!
-<br />
+<br /><br />
 
 **Lenguajes de Programación**
 

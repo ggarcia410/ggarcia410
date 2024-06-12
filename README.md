@@ -9,7 +9,7 @@ Desarrollador de software/Arquitecto de Software apasionado del código limpio y
 
 **Acerca de mí**
 
-- 💼 Desarrollador con más de 15 años de experiencia.
+- :mortar_board: Desarrollador con más de 15 años de experiencia.
 
 - 📈 Código limpio es una piedra angular en mi proceso de programación.
 

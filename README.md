@@ -11,7 +11,7 @@
 - :book: Leer es uno de mis pasatiempos.
   
 - :soccer: En cuanto al deporte, el fútbol es mi pasión.
-
+<br/>
 **Habilidades**
 
 <img align="left" alt="c#" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">

@@ -23,6 +23,18 @@
 <img align="left" alt="jenkins" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg">
 <img align="left" alt="sonar" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sonarqube/sonarqube-original.svg">
 <img align="left" alt="sourcetree" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sourcetree/sourcetree-original.svg">
+<img align="left" alt="angular" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg">
+<img align="left" alt="ant" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/antdesign/antdesign-plain.svg">
+<img align="left" alt="apache" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg">
+<img align="left" alt="bash" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-plain.svg">
+<img align="left" alt="css" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
+<img align="left" alt="dbeaver" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg">
+<img align="left" alt="docker" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg">
+<img align="left" alt="net" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
+<img align="left" alt="netcore" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg">
+<img align="left" alt="eclipse" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg">
+<img align="left" alt="flutter" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg">
+<img align="left" alt="gitlab" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg">
 <br/><br/>
 
 **Bases de datos**

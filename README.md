@@ -11,13 +11,13 @@ Desarrollador de software/Arquitecto de Software apasionado del código limpio y
 
 - :mortar_board: Desarrollador con más de 15 años de experiencia.
 
-- 📈 Código limpio es una piedra angular en mi proceso de programación.
+- :ok_hand: Código limpio es una piedra angular en mi proceso de programación.
 
-- ❤️ Aprender constantemente nuevas habilidades es algo que disfruto.
+- :heart: Aprender constantemente nuevas habilidades es algo que disfruto.
 
-- 💬 Leer es uno de mis pasatiempos.
+- :book: Leer es uno de mis pasatiempos.
   
-- 💬 En cuanto al deporte, el fútbol es mi pasión.
+- :soccer: En cuanto al deporte, el fútbol es mi pasión.
 
 **Lenguajes de programación**
 

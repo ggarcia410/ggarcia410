@@ -41,7 +41,7 @@
 <img align="left" alt="junit" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original.svg">
 <img align="left" alt="kotlin" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg">
 <img align="left" alt="postman" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
-<br/><br/>
+<br/><br/><br/>
 
 **Bases de datos**
 

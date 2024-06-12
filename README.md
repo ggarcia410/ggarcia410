@@ -29,6 +29,7 @@ Desarrollador de software/Arquitecto de Software apasionado del código limpio y
 
 **Capacitación constante**
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 | <a href="https://github.com/ggarcia410/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ggarcia410&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de Gerardo" /></a> | <a href="https://github.com/ggarcia410/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggarcia410&layout=compact&theme=buefy&hide_border=true" /></a> |

@@ -9,13 +9,15 @@ Desarrollador de software/Arquitecto de Software apasionado del código limpio y
 
 **Acerca de mí**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Desarrollador con más de 15 años de experiencia.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Código limpio es una piedra angular en mi proceso de programación.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Aprender constantemente nuevas habilidades es algo que disfruto.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Leer es uno de mis pasatiempos.
+  
+- 💬 En cuanto al deporte, el fútbol es mi pasión.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>

@@ -6,7 +6,7 @@
 <br />
 Desarrollador de software/Arquitecto de Software apasionado del código limpio y las aplicaciones simples y flexibles!!!
 
-**About me**
+**Lenguajes de Programación**
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 

@@ -19,6 +19,7 @@
 <img align="left" alt="java" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 <img align="left" alt="javascript" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img align="left" alt="github" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+<img align="left" alt="github" height="20" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
 <br/><br/>
 
 **Bases de datos**

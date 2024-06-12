@@ -19,7 +19,7 @@
 <img align="left" alt="java" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 <img align="left" alt="javascript" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img align="left" alt="github" height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-<br/>
+<br/><br/>
 
 **Bases de datos**
 

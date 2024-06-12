@@ -1,4 +1,4 @@
-# GERARDO GARCÍA ORTIZ
+## GERARDO GARCÍA ORTIZ
 
 **Acerca de mí**
 
